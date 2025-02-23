@@ -81,4 +81,4 @@ This project is licensed under the [MIT License](https://github.com/1MindLabs/mi
 
 ## Authors
 
-[Areeb Ahmed](https://github.com/areebahmeddd) - [Shivansh Karan](https://github.com/spacetesla) - [Rishi Chirchi](https://github.com/rishichirchi) - [Avantika Kesarwani](https://github.com/avii09) - [Yuktha PS](https://github.com/psyuktha)
+[Areeb Ahmed](https://github.com/areebahmeddd) - [Shivansh Karan](https://github.com/spacetesla) - [Rishi Chirchi](https://github.com/rishichirchi)
